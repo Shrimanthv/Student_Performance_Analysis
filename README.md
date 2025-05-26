@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Student Performance Analysis
 
